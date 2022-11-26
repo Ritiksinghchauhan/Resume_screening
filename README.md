@@ -1,6 +1,6 @@
-Resume_screening
+
+<h1>- Resume Screening using Python-</h1>
 A resume screening  enables recruiters to wade through an ocean of resumes (especially during high-volume recruiting) to find the perfect candidates that match the job requirements. It filters applications based on skills, education, experience, or anything that is a requirement for an open role
-<h1>-Machine Learning Project on Resume Screening using Python-</h1>
 
 <img src="Cover.png" alt ="resume cover">
 <h2>Why do we need Resume Screening?</h2>
