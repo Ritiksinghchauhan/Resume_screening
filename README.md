@@ -89,4 +89,7 @@ A resume screening  enables recruiters to wade through an ocean of resumes (espe
     <li>Industry experts predict this type of automation technology will transform the recruiting function.</li>
   </ul>
   <p>Our datasetlink is:<a href="https://www.kaggle.com/code/gauravduttakiit/resume-screening-using-machine-learning/data">DATASET LINK</a>
+    <img src="resume1.jpeg" alt ="resume cover">
+
 </b>
+
