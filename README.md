@@ -86,4 +86,5 @@ A resume screening  enables recruiters to wade through an ocean of resumes (espe
     <li>The best AI software is designed to integrate seamlessly with your current recruiting stack so it doesn’t disrupt your workflow nor the candidate workflow.</li>
     <li>Industry experts predict this type of automation technology will transform the recruiting function.</li>
   </ul>
+  <p>Our datasetlink is:<a href="https://www.kaggle.com/code/gauravduttakiit/resume-screening-using-machine-learning/data">DATASET LINK</a>
 </b>
