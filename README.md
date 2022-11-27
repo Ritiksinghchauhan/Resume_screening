@@ -23,12 +23,10 @@ A resume screening  enables recruiters to wade through an ocean of resumes (espe
     <h4>Modules :-</h4>
     <ul>
     <li>KNN</li>
-    
       <dl>
       <dd>- It's supervised technique, used for classification. "K" in the KNN repersent the number of nearest neighbours used to classify or predict in case of continuous variable.</dd>
       </dl>
     <li>NLP</li>
-    
       <dl>
       <dd>- NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.</dd>
       </dl>
